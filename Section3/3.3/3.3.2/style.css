@@ -1,0 +1,14 @@
+body {
+  background-color: azure;
+}
+
+.activity {
+  color: red;
+}
+
+main > ul {
+  color: aqua;
+  border: 2px solid black;
+  padding-bottom: 1.5rem;
+}
+
